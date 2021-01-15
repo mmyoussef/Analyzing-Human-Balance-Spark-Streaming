@@ -7,4 +7,4 @@ The project uses the Artifical STEDI application data that assesses human balanc
 - Kafka
 
 ## Language
-Python
+- Python
